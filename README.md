@@ -35,3 +35,4 @@ Pour cette seconde partie, dans la carte `Correction vous devez faire`, créez u
 3. Si vous allez dans la branche appelé `Tatooine`, quel est le texte inscrit dans le fichier README.md?
 4. Dans l'historique de ce projet à la révision `24a3131`, se trouve le nom d'un personnage de Star Wars. Qui est-ce?
 5. Faite un `Fork` du projet. Modifier le contenu du README.md pour inclure uniquement votre nom. Pousser votre modification sur GitHub, et envoyer moi un `pull request`.
+Felix Jasmin
